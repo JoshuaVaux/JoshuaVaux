@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+
+:)
+
+- Python (Decent)
+- Java (Decent)
+- AutoCAD (Not coding, but also decent)
 
 <!--
 **JoshuaVaux/JoshuaVaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
